@@ -1,0 +1,5 @@
+# Prevent Git from altering line endings of ClickOnce files
+*.manifest binary
+*.application binary
+*.dll.manifest binary
+*.deploy binary
